@@ -18,6 +18,7 @@ in the path first do a:
 Which should output something like:
 
   `Finding Dictionary file location ... /usr/local/lib/aspell`
+  
   `Finding Data file location ... /usr/local/share/aspell`
 
 if it did not something likely went wrong.
