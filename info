@@ -1,0 +1,22 @@
+name_english Russian Petrine Orthography
+name_native Русскій
+lang ru-petr1708
+data-file koi8-c.cset
+data-file koi8-c.cmap
+author:
+  name Danslav Slavenskoj
+  name-native Данславъ Бранимировичъ Славенской
+  email danslav at slavenica com
+  maintainer true
+copyright GPLv2
+#url http://slavenica.com/
+version 1.02-0
+#source-version 1.02
+accurate true
+complete true
+#alias ru-petr1708 unknown
+dict:
+  name ru-petr1708
+  add ru-petr1708
+copyright_desc Danslav Slavenskoj additions, corrections 2007-2015 (GPLv2), based on Serge Winitzki's oldrus-ispell 0.99f4p16 (GPL) 2003, a superset of A.I. Lebedev's rus-ispell package (other free licence).
+notes Accepts both YO and YE spellings.
